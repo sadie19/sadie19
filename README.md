@@ -8,7 +8,7 @@ Currently, I am learning **Python**, **Linux**, and **Networking** to enhance my
 
 ## 🌟 My Interests and Hobbies
 
-I like doing research and exploring tech communities, attending tech events, and listening songs. I love learning new technologies and connecting with others in the tech space.
+I like doing research and exploring tech communities,listening songs, playing and attending tech events. I love learning new technologies and connecting with others in the tech space.
 
 ## 🛠 My Skills
 
@@ -17,7 +17,7 @@ I like doing research and exploring tech communities, attending tech events, and
 
 ## 🚀 Why I Want to Join the Developers' Community
 
-I want to join the **Developers' Community** because I believe collaborating with other developers, learning from their experiences.I'm eager to learn more, grow, and contribute to open-source projects. Being part of this community would allow me to connect with like-minded people and work on meanibgful tech challenges together.
+I want to join the **Developers' Community** because I believe collaborating with other developers, learning from their experiences i'll get to know more. I'm eager to learn more, grow, and contribute to open-source projects. Being part of this community would allow me to connect with like-minded people and work on meanibgful tech challenges together.
 
 ## 📫 Contact Me
 
