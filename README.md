@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadikshya Budhathoki aka sadie
 
-<!--
-**sadie19/sadie19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me  
+- 🎓 Studying **Hons Computing** at **Informatics College**  
+- 🔥 Interested in **Cybersecurity & Cloud Computing**  
+- 🚀 Learning **Python, Linux, Networking**  
 
-Here are some ideas to get you started:
+## 📂 Projects  
+- 🔐 **Cybersecurity Lab**   
+- ☁️ **Cloud Computing Basics**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+- 💻 Programming: Python, Bash  
+- 🌐 Networking: Linux, Windows Server  
+- 🔒 Cybersecurity: Penetration Testing, Cryptography  
+
+## 📫 Contact Me  
+- 📧 Email: budhathokisadikshya19@gmail.com
+ 
